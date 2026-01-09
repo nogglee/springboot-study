@@ -27,4 +27,4 @@
 |    학습일자    |     학습 주제     | 학습 내용 |
 |:----------:|:-------------:|:---|
 | 2026.01.08 | **Spring 입문** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A1%9C-Spring-%EC%9E%85%EB%AC%B8%ED%95%98%EA%B8%B0) |
-
+| 2026.01.09 | **Spring Boot 프로젝트 환경설정** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)]([https://velog.io/@nogglee/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A1%9C-Spring-%EC%9E%85%EB%AC%B8%ED%95%98%EA%B8%B0](https://velog.io/@nogglee/SpringBoot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)) |
