@@ -24,8 +24,9 @@
 
 ### 🧑🏻‍💻 Learning Log
 
-|    학습일자    |     학습 주제     | 학습 내용                                                                                                                          |
-|:----------:|:-------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| 2026.01.08 | **Spring 입문** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-0) |
-| 2026.01.09 | **Spring 프로젝트 생성** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-1) |
-| 2026.01.12 | **Spring 라이브러리** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-2) |
+|    학습일자    | 학습 주제              | 학습 내용                                                                                                                          |
+|:----------:|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| 2026.01.08 | **Spring 입문**      | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-1) |
+| 2026.01.09 | **Spring 프로젝트 생성** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-2) |
+| 2026.01.12 | **Spring 라이브러리**   | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-3) |
+| 2026.01.21 | **View 환경설정**      | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-4) |
