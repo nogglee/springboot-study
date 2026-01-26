@@ -30,3 +30,4 @@
 | 2026.01.09 | **Spring 프로젝트 생성** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-2) |
 | 2026.01.12 | **Spring 라이브러리**   | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-3) |
 | 2026.01.21 | **View 환경설정**      | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-4) |
+| 2026.01.26 | **Spring 웹 개발 기초** | [![Study](https://img.shields.io/badge/Study-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@nogglee/springboot-5) |
